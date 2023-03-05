@@ -3,6 +3,7 @@
  *This project is a work in progress and will be updated regularly*
 
  <h1>Credits</h1>
+ 
 **Chloe Leung** - Project Manager
 
 * Initial ideation of the project concept

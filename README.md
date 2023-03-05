@@ -4,13 +4,13 @@
 
  <h1>Credits</h1>
  
-**Chloe Leung** - Project Manager
+**Chloe Leung (cl284)** - Project Manager
 
 * Initial ideation of the project concept
 * CAD modeling and 3D printing
 
 
-**Michael Lee** - Project Co-manager
+**Michael Lee (lwf-mlee)** - Project Co-manager
 * Circuit wiring 
 * ESP32 microcontroller programming
 
